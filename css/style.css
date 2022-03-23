@@ -1,0 +1,157 @@
+
+
+
+/* es aris flipis animacia */
+/* .maincontainer {
+
+ 
+  height: 320px;
+  width: 250px;
+  position: relative;
+  margin: 0 auto;
+
+}
+.the-card {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  transform-style: preserve-3d;
+  transition: all 0.5s ease;
+  
+}
+
+.the-card:hover {
+  transform: rotateY(180deg);
+}
+
+
+.front {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background: rgb(170, 170, 0);
+  color: #333;
+  backface-visibility: hidden;
+  text-align: center;
+  border-radius: 20px;
+  font-size: 20px;
+  font-weight: 700;
+}
+.back {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background: rgb(236, 151, 24);
+  color: #333;
+  backface-visibility: hidden;
+  transform: rotateY(180deg);
+  text-align: center;
+  border-radius: 20px;
+  font-size: 20px;
+  font-weight: 700;
+}
+.back img {
+  height: 200px;
+  width: 250px;
+} */
+
+
+
+/* -------------------------- */
+
+/* es aris ukve animaciebis basicebi */
+
+/* .parent {
+  background-color: aqua;
+  height: 500px;
+  width: 500px;
+  
+}
+.child {
+  background-color: blueviolet;
+  height: 50%;
+  width: 50%;
+  transition: 1s ease-in-out;
+  animation: circle 2s ease-in-out infinite alternate;
+}
+.parent:hover .child {
+  transform: translatex(100%); */
+  /* animation: circle 2s ease-in-out infinite alternate; */
+  /* animation-play-state: paused;
+}
+@keyframes circle {
+0% {
+  transform: translateX(0);
+}
+33% {
+  background-color: coral;
+  transform: translateY(100%);
+}
+66% {
+  background-color:darkcyan;
+  transform: translateX(100%) translateY(100%) skewY(10deg);
+}
+100% {
+  background-color: darkmagenta;
+  transform: translateX(100%);
+}
+} */
+
+
+
+
+
+
+
+/* esec dropdownis css */
+ /* a {
+   text-decoration: none !important;
+   color: white !important;
+ }
+ li {
+   list-style: none;
+   margin-top: 7px;
+ }
+.header {
+  background-color: rgb(120, 109, 221);
+  justify-content: space-around;
+  position: relative;
+  height: 250px;
+}
+.header-menu {
+  margin: 10px;
+}
+.header-menu ul {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 0px;
+  text-align: center;
+  margin-top: 10px;
+  opacity: 0;
+  pointer-events: none;
+  position: absolute;
+  width: 150px;
+  height: 150px;
+  background-color: grey;
+  border-radius: 10px;
+  transition: 0.5s ease;
+  transform: translateY(-10px);
+ 
+}
+.header-menu li:hover {
+  background-color: rgb(130 183 207);
+}
+
+.header-menu button {
+  background-color: rgba(159, 235, 235, 0.952);
+  margin-top: 10px;
+  border: none;
+  border-radius: 14px;
+  padding: 7px 9px;
+}
+.header-menu button:focus + ul {
+  opacity: 1;
+  pointer-events: all;
+  transform: translateY(0);
+} */
